@@ -15,7 +15,7 @@ TinDog is a responsive website built using **Bootstrap** that showcases a fictio
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone <https://github.com/madhurasharan/TinDog-Website>
+   git clone https://github.com/madhurasharan/TinDog-Website
 
 ## Acknowledgement
 built this as project while learning Web Development by Dr.Angela Yu
